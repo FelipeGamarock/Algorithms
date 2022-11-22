@@ -21,7 +21,6 @@ def find_duplicate(nums):
     # return False
 
 
-
 # Algoritmo de Quick Sort retirado do Course
 # def quick_sort(numbers, start, end):
 #     if start < end:
