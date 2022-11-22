@@ -42,6 +42,7 @@ def find_duplicate(nums):
 #                 numbers[index],
 #             )
 
-#     numbers[delimiter + 1], numbers[end] = numbers[end], numbers[delimiter + 1]
+#     numbers[delimiter + 1], numbers[end] =
+#     numbers[end], numbers[delimiter + 1]
 
 #     return delimiter + 1
